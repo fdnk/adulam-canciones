@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T18:37:46">
+  <properties>
+    <titles>
+      <title>El Dios de Israel es Poderoso</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Palabra en Acción</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El Dios de Israel es poderoso<br/>el Dios de Israel está aquí<br/><br/>Él guia a su pueblo en la batalla<br/>y el enemigo tendrá que huir</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Oh, oh, oh!<br/>Grita con la voz de vencedor<br/><br/>¡Hey! levanta tu voz<br/><br/>Canta y danza delante de tu rey<br/>pues el vencio y al enemigo derrotó</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El Dios de Israel es nuestro campeón<br/>su diestra la victoria ya nos dio<br/><br/>Alabanza como﻿ incienso se levanta<br/>y el enemigo tendra que huir</lines>
+    </verse>
+  </lyrics>
+</song>

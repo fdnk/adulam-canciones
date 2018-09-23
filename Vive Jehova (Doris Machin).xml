@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:33:12">
+  <properties>
+    <titles>
+      <title>Vive Jehova</title>
+      <title>Por tanto yo te confesare</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Doris Machin</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vive Jehová, y bendita sea mi Roca<br/>Y engrandecido sea el Dios de mi salvación<br/><br/>Vive Jehová, y bendita sea mi Roca<br/>Y engrandecido sea el Dios de mi salvación</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Por tanto yo te confesaré entre las naciones<br/>Oh, oh, Jehová<br/><br/>Y declararé que solo tú eres Santo y Bendito<br/>Oh, oh, Jehová, oh, oh, Jehová</lines>
+    </verse>
+  </lyrics>
+</song>

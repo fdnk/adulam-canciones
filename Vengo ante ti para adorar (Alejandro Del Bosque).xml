@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:32:40">
+  <properties>
+    <titles>
+      <title>Vengo ante ti para adorar</title>
+      <title>Y ante ti Jesus me postrare</title>
+    </titles>
+    <verseOrder>v1 p1 c1</verseOrder>
+    <authors>
+      <author>Alejandro Del Bosque</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vengo ante ti para adorar<br/>para entregar mi corazón<br/><br/>Vengo ante Ti para rendir <br/>todo lo que soy en adoración</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Pues fue el precio que pagaste <br/>la forma en que te humillaste<br/>que hoy me hacen entregarme</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y ante ti Jesús, me postraré <br/>rindiendo mi corazón todo mi ser<br/><br/>Pues fue por lo que tú hiciste en esa cruz <br/>que yo me entrego a ti</lines>
+    </verse>
+  </lyrics>
+</song>

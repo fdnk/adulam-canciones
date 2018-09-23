@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T05:25:56">
+  <properties>
+    <titles>
+      <title>Con manos vacias</title>
+      <title>Pongo mi vida a tu servicio Señor</title>
+    </titles>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Con manos vacias vengo a ti<br/>no tengo nada que darte<br/><br/>No hay nada de valor en mí<br/>no puedo impresionarte</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te puedo entregar mi corazón<br/>pero esta quebrantado<br/><br/>Recíbelo mi Buen Pastor<br/>tú puedes restaurarlo</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pongo mi vida a tu servicio Señor<br/>no será mucho pero la entrego hoy<br/><br/>Y si mis manos hoy vacias están<br/>puedes llenarlas con tu gran poder y amor<br/><br/>Usa mis manos Señor</lines>
+    </verse>
+  </lyrics>
+</song>

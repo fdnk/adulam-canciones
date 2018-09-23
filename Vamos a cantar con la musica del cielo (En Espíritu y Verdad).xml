@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:32:01">
+  <properties>
+    <titles>
+      <title>Vamos a cantar con la musica del cielo</title>
+    </titles>
+    <authors>
+      <author>En Espíritu y Verdad</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Vamos a cantar <br/>con la musica del cielo<br/><br/>Vamos a cantar <br/>alegres porque escuchas<br/><br/>Cuando cantamos <br/>para exaltar tu nombre </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Amamos todo de ti <br/>cielo y tierra te adoran <br/><br/>Los reinos se rinden <br/>Hijo de Dios tú eres por quien<br/><br/>Eres por quien vivimos hoy </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eres quien nos liberta <br/>eres la luz que guia<br/><br/>Como un fuego ardiente <br/>Hijo de Dios tú eres por quien<br/><br/>Tú eres por quien vivimos hoy </lines>
+    </verse>
+  </lyrics>
+</song>

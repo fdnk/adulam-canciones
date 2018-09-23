@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:34:16">
+  <properties>
+    <titles>
+      <title>Vivo estas</title>
+      <title>Roto estaba mi corazon</title>
+    </titles>
+    <verseOrder>v1 v2 p1 c1 v3 v4 p1 c1</verseOrder>
+    <authors>
+      <author>Hillsong United</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Roto estaba mi corazón <br/>Pero tu mano me rescató<br/><br/>Del polvo yo volví a nacer <br/>La salvación en ti encontré </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu amor no puedo expresar <br/>Te seguiré por la eternidad<br/><br/>En tu gracia caminaré <br/>En libertad siempre viviré </lines>
+    </verse>
+    <verse name="p1">
+      <lines>En ti, en ti, en ti, soy libre <br/>Sé exaltado, sé exaltado<br/><br/>Tu amor, tu amor, tu amor no se acaba <br/>Oh oh oh </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tú vivo estás en mí <br/>No hay nadie en tu lugar<br/><br/>Te necesito Dios <br/>Eres mi libertad</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al pasar por la oscuridad <br/>Tu luz siempre me guiará<br/><br/>Mis cadenas Jesús rompió <br/>Con su mano me rescató</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Este mundo terminará <br/>Yo seguiré hasta el final<br/><br/>Haz en mí Dios tu voluntad <br/>Venga tu Reino a este lugar</lines>
+    </verse>
+  </lyrics>
+</song>

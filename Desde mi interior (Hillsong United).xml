@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T06:06:45">
+  <properties>
+    <titles>
+      <title>Desde mi interior</title>
+      <title>A veces te falle</title>
+    </titles>
+    <verseOrder>v1 v2 p1 c1</verseOrder>
+    <authors>
+      <author>Hillsong United</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A veces te fallé, más tu fuiste fiel<br/>tu gracia me levantó, me basta tu amor<br/><br/>Dios eterno, tu luz por siempre brillará<br/>y tu gloria, incomparable y sin final</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Señor tu voluntad permanecerá<br/>en tí me quiero perder en adoración<br/><br/>Dios eterno, tu luz por siempre brillará<br/>y tu gloria, incomparable y sin final </lines>
+    </verse>
+    <verse name="p1">
+      <lines>De mi corazón te doy el control<br/>consume todo mi interior, Dios<br/><br/>Justicia y amor me abrazan Señor<br/>¡Te amo desde mi interior!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dios eterno<br/>tu luz por siempre brillará<br/>y tu gloria, incomparable y sin final<br/><br/>El clamor de mi se<br/>es contigo estar<br/>Desde mi interior mi alma clamará </lines>
+    </verse>
+  </lyrics>
+</song>

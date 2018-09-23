@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T04:25:24">
+  <properties>
+    <titles>
+      <title>Ahora quiero amarte</title>
+      <title>Sobre la cruz</title>
+    </titles>
+    <authors>
+      <author>Alejandro Del Bosque</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sobre la cruz se partió<br/>Tu cuerpo por mi rebelión<br/><br/>Y al ver tu dolor<br/>El Padre su rostro escondió<br/><br/>Tu cuerpo fue herido<br/>Por mí fuiste abatido</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ahora quiero amarte<br/>vivir para agradarte<br/><br/>Como tú te entregaste<br/>Sin reservas me amaste, así<br/><br/>Así quiero amarte</lines>
+    </verse>
+  </lyrics>
+</song>

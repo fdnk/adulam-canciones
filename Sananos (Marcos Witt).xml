@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T06:02:31">
+  <properties>
+    <titles>
+      <title>Sananos</title>
+      <title>Somos tu pueblo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 b1</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somos tu pueblo<br/>y hoy venimos humillados ante ti <br/>Somos tu pueblo, necesitados de ti <br/><br/>Hemos pecado, hemos dejado tu camino tu verdad <br/><br/>Nos humillamos,<br/>nuestra tierra sana hoy </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sananos, sananos <br/>es el clamor de tu pueblo<br/>humillados ante ti <br/><br/>Salvanos, salvanos <br/>es la oracion de tus hijos<br/>postrados ante ti <br/><br/>Sananos, sananos <br/>Sananos, sananos </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Somos tus hijos<br/>reconocemos nuestro orgullo<br/>nuestro error <br/><br/>Somos tus hijos<br/>te pedimos hoy perdón </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Invocamos hoy tu nombre<br/>y buscamos tu favor <br/><br/>Que tu luz nos alumbre<br/>para honrarte a ti Señor <br/><br/>Sananos, sananos</lines>
+    </verse>
+  </lyrics>
+</song>

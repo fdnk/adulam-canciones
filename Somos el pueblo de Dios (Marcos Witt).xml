@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:17:39">
+  <properties>
+    <titles>
+      <title>Somos el pueblo de Dios</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somos el pueblo de Dios<br/>somos un pueblo especial<br/><br/>Llamados para anunciar<br/>las virtudes de Aquel<br/>que nos llamó a su luz</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Somos el pueblo de Dios<br/>su sangre nos redimió<br/><br/>Y su espiritu dio<br/>para darnos poder<br/>y ser testigos de Él</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y llevaremos su gloria<br/>a cada pueblo y nación<br/>Trayéndoles esperanzas<br/>y nuevas de salvación<br/><br/>Y su amor nos impulsa<br/>no nos podemos callar<br/>Anunciaremos al mundo<br/>de su amor y verdad</lines>
+    </verse>
+  </lyrics>
+</song>

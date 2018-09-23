@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:08:54">
+  <properties>
+    <titles>
+      <title>Cuan grande es el</title>
+      <title>Señor mi Dios</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Carl Gustav Boberg</author>
+    </authors>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor mi Dios al contemplar los cielos<br/>El firmamento y las estrellas mil<br/><br/>Al oír tu voz en los potentes truenos<br/>Y ver brillar el sol en su cenit.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mi corazón entona la canción:<br/><br/>¡Cuán grande es él,<br/>cuán grande es él!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al recorrer los montes y los valles<br/>Y ver las bellas flores al pasar<br/><br/>Al escuchar el canto de las aves<br/>Y el murmurrar el claro manantial.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cuando recuerdo del amor divino<br/>Que desde el cielo al salvador envió<br/><br/>Aquel Jesús que por salvarme vino<br/>En una cruz surfió por mi murió.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cuando el Señor me llame a su presencia<br/>Al dulce hogar, al cielo de esplendor<br/><br/>Le adoraré cantando la grandeza<br/>De su poder y su infinito amor.</lines>
+    </verse>
+  </lyrics>
+</song>

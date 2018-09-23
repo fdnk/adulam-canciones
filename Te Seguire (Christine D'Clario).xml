@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:24:49">
+  <properties>
+    <titles>
+      <title>Te Seguire</title>
+      <title>Arranca de Raiz / Seguirte</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1 b1</verseOrder>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Arranca de raíz <br/>lo que no es de ti. <br/>El velo deshaz <br/>para sólo a ti mirar // </lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Voy a seguirte <br/>en pos de tu presencia // </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Abre mi ojos, <br/>escudriñame <br/>// no puedo vivir sin tu presencia // </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prosigo hacia ti, <br/>no te alejes de mí. <br/>Rompiendo las barreras <br/>pues tu no me negarás.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Señor te seguiré <br/>abre mi ojos, <br/>escudriñame <br/>//// no puedo vivir sin tu presencia //// </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:16:00">
+  <properties>
+    <titles>
+      <title>Señor yo quiero construir</title>
+      <title>A cada instante</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor, yo quiero construir <br/>una habitación y vivir junto a ti <br/><br/>Señor, en suprema adoración <br/>aquí está mi corazón,<br/>que te quiere adorar </lines>
+    </verse>
+    <verse name="c1">
+      <lines>A cada instante de mi vida <br/>yo te agradeceré<br/><br/>A cada instante de mi vida <br/>siempre te exaltaré<br/><br/>A cada instante de mi vida <br/>Siempre te amaré...<br/>Señor</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:13:11">
+  <properties>
+    <titles>
+      <title>Quiero aprender a caminar</title>
+      <title>Guardame en tu presencia</title>
+    </titles>
+    <authors>
+      <author>Abel Zavala</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero aprender a caminar<br/>estando en tu presencia<br/>y vivir hazme esperar <br/><br/>Sentir que en tu manos<br/>puedo hallar mi libertad<br/>y descansar en Ti </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toda mi esperanza ha estado en ti <br/>Tu sabes que mi vida<br/>sin tu amor no es vivir <br/><br/>Mis sueños no se harían realidad<br/>pues son de ti<br/>Pon en mi tu voluntad </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Guárdame en tu presencia <br/>que todo yugo en mi interior <br/>se pudra con la unción <br/><br/>Acércame a tu morada <br/>y hazme ver tu interior <br/>para poner en mi tu corazón</lines>
+    </verse>
+  </lyrics>
+</song>

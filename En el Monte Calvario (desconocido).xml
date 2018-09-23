@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T18:45:57">
+  <properties>
+    <titles>
+      <title>En el Monte Calvario</title>
+      <title>Himno 308</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En el monte calvario estaba una cruz<br/>emblema de afrenta y dolor<br/><br/>Mas yo amo esa cruz do murió mi Jesús<br/>por salvar al mas vil pecador.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Oh! Yo siempre amaré esa cruz,<br/>en sus triunfos mi gloria será;<br/><br/>Y algún día en vez de una cruz,<br/>mi corona Jesús me dará.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aunque el mundo despreci<br/>la cruz de Jesús,<br/>para mi tiene suma atracción,<br/><br/>Porque en ella llevó el Cordero de Dios<br/>de mi alma la condenación.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>En la cruz de Jesús do su sangre vertió,<br/>hermosura contemplo sin par,<br/><br/>Pues en ella triunfante<br/>a la muerte venció,<br/>y mi ser puede santificar</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yo seré siempre fiel a la cruz de Jesús,<br/>sus desprecios con él llevaré;<br/><br/>Y algún día feliz con los santos en luz,<br/>para siempre su gloria veré. </lines>
+    </verse>
+  </lyrics>
+</song>

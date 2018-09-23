@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:40:43">
+  <properties>
+    <titles>
+      <title>Humilde vengo a ti</title>
+    </titles>
+    <authors>
+      <author>Perfume de Alabanza</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Humilde vengo a ti a darte gracias hoy<br/>por el amor que das a mi ser<br/><br/>Porque tú vienes a mi vida<br/>y me das de tu amor<br/>Porque tú vienes a mi vida<br/>y me das de tu perdón<br/><br/>Y tu Espíritu ilumina mi ser<br/>Es por eso, Dios, que humilde vengo a ti</lines>
+    </verse>
+  </lyrics>
+</song>

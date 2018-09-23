@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:09:02">
+  <properties>
+    <titles>
+      <title>Que se abra el cielo</title>
+      <title>Dios bienvenido a este lugar</title>
+    </titles>
+    <verseOrder>v1 p1 v2 p1 c1 b1</verseOrder>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios bienvenido a este lugar<br/>Y en nuestro corazón<br/>Ven y haz tu voluntad<br/><br/>Dios te queremos conocer<br/>Con tu fuego abrazador<br/>Ven y muévete otra vez</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Espíritu, avívanos<br/>Te anhelamos Dios</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ante tu gloria y majestad<br/>Sabemos que estás<br/>Para darnos libertad<br/><br/>Entrónate en nuestra adoración<br/>Asombroso eres Señor<br/>Con tu presencia llénanos</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Que se abra el cielo<br/>Muévete Señor<br/>Venga aquí tu reino<br/>Oh gran Dios</lines>
+    </verse>
+    <verse name="b1">
+      <lines>No hay cielos cerrados se abren<br/>Tu reino se mueve aquí<br/>En ti está nuestra esperanza<br/>Oh gran Dios, Oh gran Dios</lines>
+    </verse>
+  </lyrics>
+</song>

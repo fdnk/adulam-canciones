@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:12:27">
+  <properties>
+    <titles>
+      <title>Quieres ser salvo de toda maldad</title>
+      <title>Hay poder - Himno 30</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿Quieres ser salvo de toda maldad?<br/>Tan sólo hay poder en mi Jesús.<br/><br/>¿Quieres vivir y gozar santidad?<br/>Tan sólo hay poder en Jesús.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hay poder, poder, sin igual poder,<br/>En Jesús quien murió;<br/><br/>Hay poder, poder, sin igual poder,<br/>En la sangre que él vertió.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>¿Quieres ser libre de orgullo y pasión?<br/>Tan sólo hay poder en mi Jesús.<br/><br/>¿Quieres vencer toda cruel tentación?<br/>Tan sólo hay poder en Jesús.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>¿Quieres servir a tu Rey y Señor?<br/>Tan sólo hay poder en mi Jesús.<br/><br/>Ven, y ser salvo podrás en su amor,<br/>Tan sólo hay poder en Jesús.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-02T06:07:32">
+  <properties>
+    <titles>
+      <title>Voy a seguir a Jesús</title>
+      <title>Con cantos de alegría</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Con saltos de Alegría <br/>y gritos de victoria yo voy //<br/><br/>// Voy a seguir a Jesús //<br/>// Voy a danzar con Jesús //<br/>// Voy a Correr con Jesús //</lines>
+    </verse>
+  </lyrics>
+</song>

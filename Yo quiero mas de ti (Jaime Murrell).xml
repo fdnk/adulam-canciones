@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:35:47">
+  <properties>
+    <titles>
+      <title>Yo quiero mas de ti</title>
+      <title>Quebranta mi corazon</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Jaime Murrell</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo, quiero más de ti <br/>Y habitar en tu presencia<br/><br/>Menguar para que crezcas tú<br/>y cada día seré <br/>más como tú. </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quebranta mi corazón. <br/>Quebranta mi vida <br/>Te entrego mi voluntad a ti<br/> <br/>Todo lo que soy, Señor <br/>todo cuanto tengo es tuyo <br/>Yo quiero menguar para que crezcas tú </lines>
+    </verse>
+  </lyrics>
+</song>

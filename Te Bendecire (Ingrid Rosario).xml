@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:23:47">
+  <properties>
+    <titles>
+      <title>Te Bendecire</title>
+      <title>Restaurador de mi alma</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Ingrid Rosario</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Restaurador de mi alma <br/>Sanas el dolor<br/><br/>Redentor de mi ayer <br/>Oh te bendeciré</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Creador de los cielos <br/>La tierra y el mar<br/><br/>El mundo se alegra <br/>Te glorificaré <br/><br/>¡Te glorificaré!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te bendeciré, te bendeciré <br/>Por siempre, por siempre</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Por siempre oh señor te bendeciré <br/>con mi corazón yo te cantaré</lines>
+    </verse>
+  </lyrics>
+</song>

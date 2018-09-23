@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-02T06:00:24">
+  <properties>
+    <titles>
+      <title>Llego el Tiempo, Toda la Noche sin Parar, Remolineando</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Miel San Marcos</author>
+    </authors>
+    <themes>
+      <theme>Corito</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Llegó el tiempo, llegó la hora<br/>de adorar al Rey<br/><br/>Este es el tiempo, esta es la hora<br/>de adorar al Rey</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y su iglesia se levanta<br/>para adorar<br/><br/>Celebrando con gran gozo<br/>¡el Rey está aquí!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Toda la noche sin parar<br/>cantando alabanzas al Señor<br/>diciendo de su gloria y majestad<br/>él es el Rey //<br/><br/>de Israel </lines>
+    </verse>
+    <verse name="v4">
+      <lines>El Señor es mi Rey, mi todo<br/>El Señor es mi luz, mi Rey<br/>El que me hace vibrar de gozo<br/><br/>El que guía mis pasos<br/>El que extiende sus brazos<br/>El creador de los cielos</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(la la lalalalala la la lalala lalalala)<br/>Hay muchas formas de alabar tu nombre <br/>Y de exaltarte, oh Jehová<br/>Hay muchas formas de magnificarte <br/>pero ahora lo hare así<br/><br/>Sacó mi vida del anonimato <br/>me dio corona y vestido real <br/>Así es Jehová, que exalta al pequeño <br/>por causa de él, yo haré así</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Remolineando, remolineando <br/>celebraré a Jehová<br/><br/>Remolineando, remolineando <br/>lo haré así por causa de Jehová</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh moradora de Sion alaba a Jehová<br/>grandes son sus maravillas<br/><br/>Sobre los montes y collados<br/>a mi amado buscaré. <br/>grande es su hermosura. <br/><br/>Y al estar en su presencia<br/>gozoso danzaré<br/><br/>¡Al Señor alabaré!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Grande es Jehová<br/>digno de alabar<br/><br/>Tu eres grande Jehová<br/>¡grande es tu nombre!</lines>
+    </verse>
+  </lyrics>
+</song>

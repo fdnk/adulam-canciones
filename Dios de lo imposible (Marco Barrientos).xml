@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:08:54">
+  <properties>
+    <titles>
+      <title>Dios de lo imposible</title>
+      <title>Jesucristo reinas con poder</title>
+    </titles>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesucristo reinas con poder<br/>Soberano, victorioso Rey<br/><br/>Ni la muerte pudo detener<br/>Tu poder para vencer</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dios de lo imposible<br/>¡Te adoramos!<br/><br/>Eres invencible<br/>¡Soberano!<br/><br/>Tuya es toda la gloria<br/>Tuyo es todo el honor</lines>
+    </verse>
+  </lyrics>
+</song>

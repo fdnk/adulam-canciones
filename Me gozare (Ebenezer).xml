@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:00:30">
+  <properties>
+    <titles>
+      <title>Me gozare</title>
+      <title>Cuando el Señor hiciere volver la cautividad</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Ebenezer</author>
+    </authors>
+    <themes>
+      <theme>Corito</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuando el Señor hiciere volver<br/>la cautividad<br/>Seremos como los que sueñan<br/><br/>Mi boca llenará de risa<br/>mis labios de alabanza<br/>Entonces dirán las naciones:<br/><br/>¡Grandes cosas ha hecho el Señor!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me gozare, me gozaré, me gozaré<br/>Me gozaré en Jehová (¡gozate!)<br/><br/>Pues ha llevado todo mi dolor<br/>¡Me ha hecho libre!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Así como David cantaba<br/>así como David danzaba<br/>así como David fluía en su presencia</lines>
+    </verse>
+  </lyrics>
+</song>

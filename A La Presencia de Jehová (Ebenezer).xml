@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T03:38:39">
+  <properties>
+    <titles>
+      <title>A La Presencia de Jehová</title>
+    </titles>
+    <authors>
+      <author>Ebenezer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A la presencia de Jehová<br/>tiembla la tierra<br/>A la presencia del Dios del Jacob<br/><br/>¿Qué tuviste, oh mar, que huiste?<br/>¿Y tú, oh Jordán, que te volviste atrás? </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que convirtió la peña<br/>en estanque de agua<br/><br/>De agua, de agua viva</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Y ahora salta, y ahora salta<br/>Y ahora salta para tu Dios<br/><br/>Y ahora grita, y ahora grita<br/>Y ahora grita para tu Dios</lines>
+    </verse>
+  </lyrics>
+</song>

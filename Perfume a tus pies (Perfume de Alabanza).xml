@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-02T06:11:21">
+  <properties>
+    <titles>
+      <title>Perfume a tus pies</title>
+      <title>Yo quiero enamorame mas de ti</title>
+    </titles>
+    <authors>
+      <author>Perfume de Alabanza</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuando pienso en tu amor<br/>y en tu fidelidad<br/>No puedo hacer más<br/>que postrarme y adorar<br/><br/>Cuando pienso en lo que he sido<br/>y hasta dónde me has traído<br/>Me asombro de ti</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Y no me quiero conformar<br/>He probado y quiero más</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yo quiero enamorarme mas de ti<br/>Enseñame amarte y a vivir<br/>Conforme a tu justicia y tu verdad<br/>Con mi vida quiero adorar<br/><br/>Con todo lo que tengo y lo que soy<br/>Todo lo que he sido te lo doy<br/>Que mi vida sea para ti<br/>como un perfume a tus pies</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando pienso en tu cruz<br/>y en todo lo que has dado<br/>Tu sangre por mi<br/>por llevar mi pecado<br/><br/>Y cuando pienso en tu mano<br/>hasta aquí hemos llegado<br/>Por tu fidelidad</lines>
+    </verse>
+  </lyrics>
+</song>

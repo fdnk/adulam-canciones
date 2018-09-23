@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:28:24">
+  <properties>
+    <titles>
+      <title>Hosanna</title>
+      <title>Levantamos un clamor</title>
+    </titles>
+    <verseOrder>v1 p1 c1</verseOrder>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Levantamos un clamor<br/>por sanidad y redención<br/>Muestranos lo que tú ves<br/>los secretos de tu corazón.<br/><br/>Un pueblo unido pide hoy<br/>tu libertad y salvación<br/>Armanos con tu valor<br/>lo que deseamos es revolución.</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Que el cielo se parta en dos...<br/>inundanos<br/><br/>Que en el desierto broten rios...<br/>vida sopla hoy </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosanna al Rey de Salvación<br/>Hosanna al Dios Altísimo<br/><br/>Hosanna<br/>Jesucristo, Jesucristo es Rey</lines>
+    </verse>
+  </lyrics>
+</song>

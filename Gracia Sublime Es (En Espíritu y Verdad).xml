@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:16:37">
+  <properties>
+    <titles>
+      <title>Gracia Sublime Es</title>
+      <title>Quien rompe el poder del pecado</title>
+    </titles>
+    <authors>
+      <author>En Espíritu y Verdad</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quien rompe el poder del pecado<br/>Su amor es fuerte y poderoso<br/>El Rey de Gloria, el Rey de Majestad<br/><br/>Conmueve el mundo con su estruendo<br/>Y nos asombra con maravillas<br/>El Rey de Gloria, El Rey de Majestad</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gracia sublime es<br/>Perfecto es tu amor<br/>Tomaste mi lugar<br/>Cargaste tu mi cruz<br/><br/>Tu vida diste ahí<br/>Y ahora libre soy<br/>Jesús te adoro<br/>por lo que hiciste en mí</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pusiste en orden todo el caos<br/>Nos adoptaste como tus hijos<br/>El Rey de Gloria, El Rey de Majestad<br/><br/>El que gobierna con su justicia<br/>Y resplandece con su belleza<br/>El Rey de Gloria, El Rey de Majestad</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Digno es el Cordero de Dios<br/>Digno es el Rey que la muerte venció</lines>
+    </verse>
+  </lyrics>
+</song>

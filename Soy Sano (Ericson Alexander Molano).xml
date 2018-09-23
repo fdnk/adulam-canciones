@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:20:17">
+  <properties>
+    <titles>
+      <title>Soy Sano</title>
+      <title>Tu victorioso salvador</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Ericson Alexander Molano</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú, Victorioso Salvador<br/>digno de adoracion<br/><br/>Venciste a la muerte en la cruz<br/>por tu llagas sano soy<br/><br/>Y no daremos gloria a nadie más<br/>Jesucristo has venido a libertar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Soy sano, soy libre en Jesús<br/>fue allá en aquella cruz<br/>que el venció la enfermedad<br/><br/>A él sea la gloria y el poder<br/>me ha tocado con su mano<br/>he recibido sanidad</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:50:40">
+  <properties>
+    <titles>
+      <title>Lo unico que quiero es adorarte</title>
+      <title>Anhelo conocerte mas</title>
+    </titles>
+    <verseOrder>v1 c1 c2</verseOrder>
+    <authors>
+      <author>Marcela Gándara</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anhelo conocerte más<br/>vivir en santidad, en intimidad<br/><br/>Contigo siempre quiero estar,<br/>tu gloria contemplar<br/>¡por la eternidad!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lo único que quiero es adorarte<br/>lo único que quiero es adorarte<br/>Vengo a tus pies<br/>para entregar mi corazón<br/><br/>Lo único que quiero es agradarte<br/>lo único que quiero es agradarte<br/>Por siempre cantaré de tu amor</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Amor que me rescató<br/>que me limpió<br/>que me da vida eterna<br/><br/>Tu sangre abrió el camino<br/>Nunca se cerrará<br/>tengo libertad</lines>
+    </verse>
+  </lyrics>
+</song>

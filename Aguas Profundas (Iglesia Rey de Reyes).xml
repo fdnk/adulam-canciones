@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T03:50:06">
+  <properties>
+    <titles>
+      <title>Aguas Profundas</title>
+      <title>Ven sobre mí como lluvia</title>
+    </titles>
+    <verseOrder>v1 c1 c2 b1</verseOrder>
+    <authors>
+      <author>Iglesia Rey de Reyes</author>
+    </authors>
+    <themes>
+      <theme>Avivamiento</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ven sobre mí como lluvia<br/>Haz las aguas subir en este lugar<br/><br/>Libera tu rio sin medidas<br/>Libera tus aguas a agitar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quiero nadar, quiero nadar<br/>En tu rio<br/><br/>Quiero beber, quiero beber<br/>De tus aguas</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Existen aguas a los tobillos<br/>Existen aguas a las rodillas<br/><br/>Existen aguas a los lomos<br/>Pero hay aguas profundas yo sé</lines>
+    </verse>
+    <verse name="c2">
+      <lines>¡Oh oh oh oh!<br/>Quiero más de ti Señor<br/><br/>¡Oh oh oh oh!<br/>Yo sé que hay más de ti Señor</lines>
+    </verse>
+  </lyrics>
+</song>

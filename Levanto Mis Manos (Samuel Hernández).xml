@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:44:43">
+  <properties>
+    <titles>
+      <title>Levanto Mis Manos</title>
+    </titles>
+    <authors>
+      <author>Samuel Hernández</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Levanto mis manos<br/>aunque no tenga fuerzas<br/><br/>Levanto mis manos<br/>aunque tenga mil problemas</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cuando levanto mis manos<br/>comienzo a sentir<br/>Una unción que me hace cantar<br/><br/>Cuando levanto mis manos<br/>comienzo a sentir el fuego</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Cuando levanto mis manos<br/>mis cargas se van<br/><br/>Nuevas fuerzas tú me das<br/><br/>Todo esto es posible<br/>todo esto es posible<br/>cuando levanto mis manos</lines>
+    </verse>
+  </lyrics>
+</song>

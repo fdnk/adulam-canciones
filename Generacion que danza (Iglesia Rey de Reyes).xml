@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T18:57:21">
+  <properties>
+    <titles>
+      <title>Generacion que danza</title>
+      <title>Tu gracia nos hace danzar</title>
+    </titles>
+    <authors>
+      <author>Iglesia Rey de Reyes</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu gracia nos hace danzar <br/>con todas las fuerzas celebrar <br/>danzaremos libres por tu amor <br/><br/>Tu gloria nos hace cantar<br/>tu santo nombre levantar <br/>cantaremos gloria a ti señor </lines>
+    </verse>
+    <verse name="p1">
+      <lines>Nuestro corazón <br/>comienza a desbordar <br/>Al conocerte a ti <br/>no podemos callar </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Seremos la generación que danza, <br/>danza de tu misericordia oh Dios <br/>tu misericordia a Dios <br/><br/>Seremos la generación que canta <br/>y que celebra dándote la gloria oh Dios <br/>dándote la gloria o Dios</lines>
+    </verse>
+  </lyrics>
+</song>

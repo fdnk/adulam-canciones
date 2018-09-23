@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:19:02">
+  <properties>
+    <titles>
+      <title>Somos Libres</title>
+    </titles>
+    <verseOrder>i1 v1 c1 i1 v2 c1 i1 b1 c1 i1</verseOrder>
+    <authors>
+      <author type="translation">En Espíritu y Verdad</author>
+    </authors>
+    <themes>
+      <theme>Avivamiento</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Oh, oh, oh, oh, oh, oh</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Somos perdonados<br/>Cantamos tu redención<br/>//Con fuego en el corazón//<br/><br/>Nada nos detiene<br/>Vencemos la oscuridad<br/>//Con fuego en el corazón//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Somos libres!<br/>Una generación<br/>Que canta tu gracia<br/><br/>Tú eres aquel<br/>en quien nos movemos<br/>¡Tuya es la gloria!<br/><br/>Hay un fuego<br/>que arde en el corazón<br/>Que nunca se apagará<br/>Somos libres<br/><br/>¡Tuya es la gloria!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Resucitados<br/>Vivimos para ti<br/>//La pasión no morirá//<br/><br/>Nada nos detiene<br/>Vencemos la oscuridad<br/>//La pasión no morirá//</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Resucitaste con poder<br/>Te levantaste<br/>Y nos levantamos<br/>¡Nos levantamos!<br/><br/>Hacia el mundo que tú amas<br/>Caminaremos<br/>y nos levantamos<br/>¡Nos levantamos!<br/>¡Nos levantamos!</lines>
+    </verse>
+  </lyrics>
+</song>

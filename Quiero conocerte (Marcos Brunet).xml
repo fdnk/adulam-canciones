@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:13:51">
+  <properties>
+    <titles>
+      <title>Quiero conocerte</title>
+      <title>Al que esta sentado</title>
+    </titles>
+    <verseOrder>v1 c1 b1</verseOrder>
+    <authors>
+      <author>Marcos Brunet</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero conocerte<br/>cada día más a ti<br/>Entrar en tu presencia y adorar<br/><br/>Revélanos tu gloria<br/>deseamos ir mucho más en ti<br/><br/>Queremos tu presencia<br/>¡Jesús!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Al que está sentado en el trono<br/>Al que vive para siempre y siempre<br/><br/>¡Sea la gloria!<br/>¡Sea la honra y el poder!<br/><br/>¡Sea la gloria!<br/>¡Sea la honra y el poder!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Tú eres<br/>¡Santo, Santo!<br/><br/>¡Santo, Santo!<br/>¡Santo eres tú!</lines>
+    </verse>
+  </lyrics>
+</song>

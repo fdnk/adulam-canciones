@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T05:48:34">
+  <properties>
+    <titles>
+      <title>Sana nuestra tierra</title>
+      <title>Vengo a ti guiame</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vengo a ti, guíame<br/>santificame en ti<br/>Yo quiero andar<br/>en tu verdad<br/><br/>Tómame, abrázame<br/>Mi corazón hoy vuelvo a ti<br/><br/>Sólo a ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vengo a humillarme, buscar tu rostro<br/>Hoy me arrepiento delante de ti<br/><br/>Vengo a invocarte, inclina tu oído<br/>Escucha y perdona mi rebelión<br/><br/>/// Sana nuestra tierra ///<br/>Con tu amor</lines>
+    </verse>
+  </lyrics>
+</song>

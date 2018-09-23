@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-07-30T00:28:30">
+  <properties>
+    <titles>
+      <title>A danzar</title>
+    </titles>
+    <authors>
+      <author>Barak</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>¡A danzar!<br/>Delante de su presencia<br/>su amor es quien nos sustenta<br/>Él es Dios, él es quien resucitó<br/><br/>¡A danzar!<br/>A Dios vamos adorar<br/>Su amor hay que celebrar<br/>El es Dios él es quien resucitó<br/>¡A danzar!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Da un paso al frente<br/>haz algo diferente<br/>demos toda gloria a Jesús<br/><br/>Levanta tus manos<br/>grita que él es santo<br/>es el gran Yo Soy, murió en la cruz<br/><br/>Si tu respiras tienes que adorar<br/>que nada te impida danzar</lines>
+    </verse>
+  </lyrics>
+</song>

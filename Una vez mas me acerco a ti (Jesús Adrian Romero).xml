@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:30:48">
+  <properties>
+    <titles>
+      <title>Una vez mas me acerco a ti</title>
+      <title>Abba Padre</title>
+    </titles>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Una vez más me acerco a ti<br/>Con libertad, en adoración<br/><br/>Tú eres mi Dios, tu hijo soy<br/>Mi comunión contigo<br/>es una dulce bendición.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Abbá Padre, Abbá Padre<br/>Estar contigo<br/>es una dulce bendición<br/><br/>Abbá Padre, te amo Señor<br/>Quiero estar en comunión<br/>quiero estar contigo</lines>
+    </verse>
+  </lyrics>
+</song>

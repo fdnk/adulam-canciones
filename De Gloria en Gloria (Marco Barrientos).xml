@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T05:34:12">
+  <properties>
+    <titles>
+      <title>De Gloria en Gloria</title>
+      <title>Yo quiero ver</title>
+    </titles>
+    <verseOrder>v1 p1 c1 b1</verseOrder>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo quiero ver<br/>tu luz brillando en mí<br/>a través de mí<br/><br/>Ser un altar<br/>que todos puedan ver<br/>que todos oigan que</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Tú eres vida, la esperanza<br/><br/>Perfecta gracia que<br/>me ha rescatado</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ya no vivo yo<br/>Cristo vive en mí<br/><br/>Barro quiero ser en tus manos</lines>
+    </verse>
+    <verse name="b1">
+      <lines>De gloria en gloria<br/>te veo Dios<br/><br/>De gloria en gloria<br/>transformado soy<br/><br/>Por tu Espíritu</lines>
+    </verse>
+  </lyrics>
+</song>

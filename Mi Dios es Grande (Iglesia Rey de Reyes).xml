@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:02:59">
+  <properties>
+    <titles>
+      <title>Mi Dios es Grande</title>
+      <title>Vino del agua hiciste</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Iglesia Rey de Reyes</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vino del agua hiciste<br/>los ojos del ciego abriste<br/>No hay nadie como tú<br/><br/>En la oscuridad Tú brillaste<br/>del pozo tú me sacaste<br/>No hay nadie como tú </lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Mi Dios es Grande, mi Dios es fuerte!<br/>Eres más alto que cualquier otro<br/><br/>Dios sanador, grande en poder, mi Dios<br/>Mi Dios...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>En la oscuridad tú brillaste<br/>Del pozo tú me sacaste<br/>No hay nadie como tú </lines>
+    </verse>
+    <verse name="b1">
+      <lines>Si Dios es con nosotros<br/>¿Quién podrá detenernos?<br/><br/>Si Dios es con nosotros<br/>¡No hay nada que temer!</lines>
+    </verse>
+  </lyrics>
+</song>

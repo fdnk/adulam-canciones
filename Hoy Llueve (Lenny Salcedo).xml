@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:31:01">
+  <properties>
+    <titles>
+      <title>Hoy Llueve</title>
+      <title>Asi como las aguas cubren el mar</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Lenny Salcedo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Así como las aguas cubren el mar<br/>La tierra llenaras con tu gloria<br/><br/>Así como las nubes anuncian que vendrá,<br/>La lluvia de tu misericordia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La tierra cantara<br/>y el cielo se abrirá y lloverá<br/><br/>Y vendrán, nuevos tiempos vienen ya<br/>Y el amor nos cubrirá, eternamente</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hoy llueve<br/>Tu gloria hoy llueve<br/><br/>Tu gracia; hoy tu amor nos lloverá</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Un mundo nuevo<br/>donde no haya diferencia<br/><br/>Donde todo sea amor<br/>tu amor nos lloverá</lines>
+    </verse>
+  </lyrics>
+</song>

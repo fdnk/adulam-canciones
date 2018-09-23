@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:08:00">
+  <properties>
+    <titles>
+      <title>Precioso Jesus</title>
+      <title>Al contemplar tu obra en la cruz</title>
+    </titles>
+    <authors>
+      <author>Esperanza de Vida</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Al contemplar tu obra en la cruz <br/>tanto amor derramado y todo por mí <br/>con gratitud me quiero acercar <br/>sólo tengo mi vida aceptala</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No se cómo expresarme ante tu hermosura <br/>rodeada de gloria y poder <br/>necesito decirte lo que siento ahora <br/>me acerco a ti, al santo lugar</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Precioso Jesús mi redentor <br/>amado Señor eres todo para mí <br/>te adoraré cada día de mi vida <br/>no puedo vivir si no estás junto a mí </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:25:21">
+  <properties>
+    <titles>
+      <title>Todos unidos a una voz</title>
+      <title>Al que vive</title>
+    </titles>
+    <authors>
+      <author>Gadiel Espinoza</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Todos unidos a una voz<br/>En un mismo corazón<br/>Levantamos hoy una canción<br/><br/>Se oye un fuerte resonar<br/>Un estruendo sin igual <br/>Con los ángeles han de cantar</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Todos juntos a alabar<br/>Todos juntos a alabar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Al que vive!<br/>Al que es y que vendrá<br/>Al santo de Israel que pronto regresará<br/><br/>¡Al Cordero coronado en majestad!<br/>A nuestro libertador<br/>Y a nuestro salvador</lines>
+    </verse>
+    <verse name="b2">
+      <lines>¡Aleluya!<br/>¡Al Cordero, gloria!</lines>
+    </verse>
+  </lyrics>
+</song>

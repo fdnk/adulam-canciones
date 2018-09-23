@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:25:15">
+  <properties>
+    <titles>
+      <title>Hay una fuente en mí</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hay una fuente en mí<br/>(díselo al Señor)<br/><br/>que esta brotando <br/>(que esta fluyendo)<br/><br/>que esta fluyendo <br/>dentro de mí</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Es un río de alabanza<br/>(y de adoración)<br/><br/>Y de adoración <br/><br/>Dirigido hacia ti Señor Jesús<br/>recibelo</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:53:56">
+  <properties>
+    <titles>
+      <title>Los Muros Caeran</title>
+      <title>Cuando le canto</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 b2</verseOrder>
+    <authors>
+      <author>Miel San Marcos</author>
+    </authors>
+    <themes>
+      <theme>Avivamiento</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuando le canto la tierra se estremece<br/>Los muros caerán<br/><br/>Cuando le adoro se rompen las cadenas<br/>Los muros caerán </lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Los muros caerán//<br/>Al sonar mi cántico<br/>Caerán...<br/><br/>//Los muros caerán//<br/>Con Gritos de júbilo<br/>Caerán... </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando yo danzo aumenta DIOS mis fuerzas<br/>Los muros caerán<br/><br/>Cuando yo grito mis enemigos huyen<br/>Los muros caerán</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Caen los muros<br/>(Caen los muros)</lines>
+    </verse>
+    <verse name="b2">
+      <lines>//Saltando, saltando<br/>los muros caerán<br/><br/>Gritando, gritando<br/>los muros caerán//</lines>
+    </verse>
+  </lyrics>
+</song>

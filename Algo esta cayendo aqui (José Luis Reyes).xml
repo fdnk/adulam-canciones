@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T04:33:40">
+  <properties>
+    <titles>
+      <title>Algo esta cayendo aqui</title>
+      <title>Esta cayendo su gloria sobre mi</title>
+    </titles>
+    <authors>
+      <author>José Luis Reyes</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Algo está cayendo aquí <br/>es tan fuerte sobre mí<br/><br/>Mis manos levantaré <br/>y su gloria tocaré</lines>
+    </verse>
+    <verse name="c1">
+      <lines>// Está cayendo <br/>su gloria sobre mí<br/><br/>Sanando heridas <br/>levantando al caído <br/>su gloria está aquí //<br/><br/>Su gloria está aquí</lines>
+    </verse>
+  </lyrics>
+</song>

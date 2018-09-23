@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T05:42:31">
+  <properties>
+    <titles>
+      <title>Quiero ser mas como tu</title>
+      <title>De gloria en gloria te veo</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De gloria en gloria te veo <br/>Cuanto más te conozco <br/>Quiero saber más de ti<br/><br/>Mi Dios, ¡cuán buen alfarero!<br/>Quebrantame, transformame <br/><br/>Moldeame a tu imagen,<br/>Señor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Quiero ser más como tú <br/>Ver la vida como tú <br/><br/>Saturarme de tu Espíritu <br/>y reflejar al mundo tu amor</lines>
+    </verse>
+  </lyrics>
+</song>

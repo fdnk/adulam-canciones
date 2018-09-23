@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T18:58:41">
+  <properties>
+    <titles>
+      <title>Gloria en lo alto</title>
+      <title>Quebrantado fuiste oh Jesús</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p1 c1</verseOrder>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quebrantado fuiste<br/>¡Oh Jesús! por mi rebelión<br/><br/>Resucitaste y hoy puedo vivir<br/>Y de nuevo nacer</lines>
+    </verse>
+    <verse name="p1">
+      <lines>¡Cuánto amaste al mundo Dios!<br/>¡Cuánto te quiero agradecer!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gloria, gloria en lo alto<br/>gloria en lo alto, gloria al Rey<br/><br/>Gloria, gloria a Ti mi Cristo<br/>tu nombre por siempre exaltaré</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Venciste el mundo pecador<br/>con tu gran amor<br/><br/>Ahora el Padre te ha exaltado<br/>al más alto lugar</lines>
+    </verse>
+  </lyrics>
+</song>

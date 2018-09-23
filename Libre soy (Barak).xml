@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-02T06:01:37">
+  <properties>
+    <titles>
+      <title>Libre soy</title>
+      <title>Salvo soy - Me hiciste libre</title>
+    </titles>
+    <authors>
+      <author>Barak</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salvo soy <br/>Mi alegría está en tu amor <br/>Hoy te canto porque tú<br/>Me hiciste libre en una cruz <br/><br/>Exaltaré<br/>Día y noche adoraré<br/>Porque libre soy en ti <br/>Eres todo mi vivir </lines>
+    </verse>
+    <verse name="p1">
+      <lines>Las cadenas fueron rotas <br/>En su nombre yo he vencido<br/><br/>¡Libre soy, libre soy!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Me hiciste libre y hoy puedo danzar <br/>Me hiciste libre por tu gran amor<br/><br/>Me hiciste libre y hoy puedo gritar que <br/>¡Libre soy!</lines>
+    </verse>
+  </lyrics>
+</song>

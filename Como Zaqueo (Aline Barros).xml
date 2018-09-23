@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T05:23:33">
+  <properties>
+    <titles>
+      <title>Como Zaqueo</title>
+      <title>Haz el milagro en mi</title>
+    </titles>
+    <verseOrder>v1 p1 c1</verseOrder>
+    <authors>
+      <author>Aline Barros</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Como Zaqueo yo quiero subir<br/>lo más alto que yo pueda llegar<br/><br/>Sólo para verte y mirar hacia ti<br/>y llamar tu atención hacia mí</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Necesito de ti Señor<br/>necesito de ti, oh Padre<br/><br/>Soy pequeño y nada más<br/>dame de tu paz,<br/>Dejo todo para seguirte</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Entra en mi casa, entra en mi vida<br/>Toca en mi estructura,<br/>sana todas las heridas<br/><br/>Dame de tu santidad<br/>quiero amarte solo a ti<br/>Porque el Señor es mi gran amor<br/><br/>Haz un milagro en mí</lines>
+    </verse>
+  </lyrics>
+</song>

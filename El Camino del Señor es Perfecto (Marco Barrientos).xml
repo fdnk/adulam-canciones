@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T06:09:46">
+  <properties>
+    <titles>
+      <title>El Camino del Señor es Perfecto</title>
+    </titles>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El Camino del Señor es perfecto,<br/>la Palabra del Señor es Poder,<br/><br/>Es el arma y escudo<br/>de todos los que en Él confían</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo es mi fortaleza, es mi escudo,<br/>con él paso en medio de un batallón<br/><br/>Él adiestra mis manos<br/>me prepara para guerrear</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Porque ¿quién es Dios?<br/>sino el Señor<br/><br/>Y ¿quién es la Roca?<br/> sino nuestro Dios<br/><br/>¡Aleluya, Aleluya, Aleluya!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Perseguí a mis enemigos, los alcancé<br/>Los destruí, los atravesé<br/>bajo los pies del Señor cayeron<br/>no se levantarán más.</lines>
+    </verse>
+  </lyrics>
+</song>

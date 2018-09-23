@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:17:05">
+  <properties>
+    <titles>
+      <title>Si tu hablas con Dios</title>
+    </titles>
+    <authors>
+      <author>Stanislao Marino</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Si tu hablas con Dios<br/>la cosas cambiarán orando<br/>Cualquier necesidad<br/>Dios la responderá orando<br/><br/>Descansa en el Señor<br/>tus penas dile a él orando<br/>Bendita oración<br/>yo puedo hablar con Dios orando</lines>
+    </verse>
+  </lyrics>
+</song>

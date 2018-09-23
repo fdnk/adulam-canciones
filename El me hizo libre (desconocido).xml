@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T18:42:12">
+  <properties>
+    <titles>
+      <title>El me hizo libre</title>
+      <title>Cantaria sin parar</title>
+    </titles>
+    <verseOrder>i1 c1 v1 b1</verseOrder>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Cantaría sin parar<br/>por lo que hiciste en mí<br/><br/>Danzaría siempre oh Dios<br/>por tu gran amor</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Arde mi corazón para poder decir<br/>Que me haz salvado<br/>y borraste mi pasado<br/><br/>Señor quiero gritar<br/>hacia todo lugar<br/><br/>Que si tu estás conmigo<br/>¿quién contra mí?</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Estamos cantando<br/>¡Somos felices!<br/><br/>Estamos danzando<br/>¡Pues somos libres!<br/><br/>Si te pudiéramos mirar<br/>y contemplar tu sonreir<br/>y a tus ángeles danzar...<br/><br/>¡Porque el gozo está aquí!</lines>
+    </verse>
+    <verse name="i1">
+      <lines>Él me hizo libre, él me hizo libre<br/><br/>Él me hizo libre<br/>¡Él me hizo libre!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:00:43">
+  <properties>
+    <titles>
+      <title>Me robaste el corazon</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2</verseOrder>
+    <authors>
+      <author>Alex Campos</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me robaste el corazón<br/>Te adueñaste de mi vida<br/>De tus labios brota miel<br/>Y tu dulce voz me arruya</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Es hermoso estar dormido<br/>Con el corazón despierto<br/>Es tan agradable verte<br/>Y tan dulce escuchar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tú, solo tú<br/>Esperanza amado mío<br/>Estás en los colores<br/>De las rosas que florecen<br/>Estás en mis canciones<br/>En el viento y el mar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me robaste el corazón<br/>Aunque yo quede en el olvido<br/>Y me gusta estar así<br/>Con el corazón enamorado de ti</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:59:05">
+  <properties>
+    <titles>
+      <title>Mas que vencedor</title>
+      <title>Señor mira donde me han traido - leones</title>
+    </titles>
+    <authors>
+      <author>Doris Machin</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor mira donde me han traido<br/>por causa de mi amor a ti<br/>en este foso me han tirado<br/><br/>Señor es que no pueden entender<br/>que tú eres real<br/>y que no hay nadie como tú</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Los leones me rodean<br/>pero eso yo no temo<br/>Porque yo sé en quién he confiado<br/><br/>Se acercan más y más<br/>pero yo no temeré<br/>Porque tú, Jehová, estás conmigo</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hoy soy más que vencedor<br/>por medio de aquel que me amó<br/>Y yo nunca temeré si a mi lado estás<br/><br/>Y aunque venga el león<br/>con todo su inmenso furor<br/>Yo, yo soy más que un vencedor</lines>
+    </verse>
+  </lyrics>
+</song>

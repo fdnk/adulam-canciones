@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:42:21">
+  <properties>
+    <titles>
+      <title>Increible</title>
+      <title>Poderoso Invencible</title>
+    </titles>
+    <verseOrder>v1 c1 b1</verseOrder>
+    <authors>
+      <author>Miel San Marcos</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poderoso, Invencible <br/>Admirable, Grande, Fuerte Dios<br/><br/>Rey de Reyes, Asombroso <br/>Incomparable</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Eres increible!<br/>Todopoderoso, grande<br/><br/>¡Eres increible!<br/>Venciste las tinieblas <br/>Cristo exaltado estás</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Increible, Invencible<br/><br/>// Mi Dios solo tú, sólo tú<br/>tú eres increible, invencible //</lines>
+    </verse>
+  </lyrics>
+</song>

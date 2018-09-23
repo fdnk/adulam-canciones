@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:42:31">
+  <properties>
+    <titles>
+      <title>Yo vere</title>
+      <title>Cuando el mundo me rechaza</title>
+    </titles>
+    <verseOrder>v1 p1 c1 v2 p1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuando el mundo me rechaza<br/>y dice que tú no eres real<br/><br/>Sigo firme, adelante<br/>pues tu Reino revelarás</lines>
+    </verse>
+    <verse name="p1">
+      <lines>No hay necesidad de que<br/>me acepten por creer<br/><br/>Todo lo que has dicho<br/>ante mis ojos vas a hacer</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yo veré tu reino descender<br/>y nos restauraras para la eternidad<br/><br/>Yo veré tu cielo y majestad<br/>pues lo que has prometido<br/>sé que tú lo cumplirás<br/><br/>Yo veré</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si atacan con mentiras<br/>y la lucha intensa es<br/><br/>Sigo firme, adelante<br/>pues tu reino revelarás</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Yo veré tu reino aquí<br/>Y tu voluntad en mi<br/>En la tierra como en el cielo</lines>
+    </verse>
+  </lyrics>
+</song>

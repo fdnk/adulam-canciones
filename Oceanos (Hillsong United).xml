@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:07:16">
+  <properties>
+    <titles>
+      <title>Oceanos</title>
+      <title>Tu voz me llama a las aguas</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Hillsong United</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu voz me llama a las aguas<br/>Donde mis pies, pueden fallar<br/><br/>Ahí te encuentro en lo incierto<br/>Caminaré sobre el mar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A tu nombre clamaré<br/>En ti mis ojos fijaré<br/><br/>En tempestad, descasaré en tu poder<br/>Pues tuyo soy hasta el final</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu gracia abunda en la tormenta<br/>Tu mano Dios, me guiará<br/><br/>Cuando hay temor en mi camino<br/>Tú eres fiel y no cambiarás</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Que tu espíritu me guié sin fronteras<br/>Más allá de las barreras a donde tú me llames<br/><br/>Tú me llevas más allá de lo soñado<br/>Donde puedo estar confiado al estar en tu presencia</lines>
+    </verse>
+  </lyrics>
+</song>

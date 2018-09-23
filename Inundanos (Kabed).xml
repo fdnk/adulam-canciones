@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:42:37">
+  <properties>
+    <titles>
+      <title>Inundanos</title>
+      <title>Tengo hambre de ti</title>
+    </titles>
+    <verseOrder>v1 c1 b1</verseOrder>
+    <authors>
+      <author>Kabed</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tengo hambre de ti <br/>Transfórmame<br/><br/>Haz derribar lo que no te agrada <br/>escribe una historia diferente en mí<br/><br/>Fórmame en el silencio <br/>que todo sea nuevo y venga de ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh Señor<br/>Rebosa mi copa de ti</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Inúndanos, inúndanos <br/>inúndanos Señor, inúndanos</lines>
+    </verse>
+  </lyrics>
+</song>

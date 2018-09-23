@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:34:54">
+  <properties>
+    <titles>
+      <title>Ya se oye el shofar, Los enemigos del Señor, Toda rodilla</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+    <themes>
+      <theme>Corito</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ya se oye el Shofar <br/>en los cielos se oirá <br/>a su amada él está llamando <br/><br/>Ven, ven, ven<br/>ven Señor <br/>esperándote está tu novia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Los enemigos del Señor estan cayendo<br/>Los adversarios del Señor pereceran<br/><br/>Porque grande y fuerte es nuestro Dios<br/>poderoso es él<br/><br/>Victorioso es el Señor<br/>sobre todo mal</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Toda rodilla se doblará ante él<br/>es Jesucristo Dios por siempre<br/><br/>Y toda lengua confesará ante él <br/>es Jesucristo Dios por siempre</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No, no puedo parar de alabarte <br/>No, no puedo parar de alabarte <br/><br/>No, no puedo parar de alabarte<br/>Cristo </lines>
+    </verse>
+  </lyrics>
+</song>

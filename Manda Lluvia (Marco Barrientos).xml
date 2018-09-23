@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:56:31">
+  <properties>
+    <titles>
+      <title>Manda Lluvia</title>
+      <title>Vengo ante ti con el corazon rendido a tus pies</title>
+    </titles>
+    <verseOrder>v1 p1 v2 p1 c1</verseOrder>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vengo ante ti<br/>con el corazón rendido a tus pies<br/>Con mi vida entregada<br/>para ser tuyo, Dios.<br/><br/>Y te clamaré<br/>por un fuego que llueva sobre mí<br/>Por un deseo que transforme mi interior<br/>de traerte honor</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Desciende, desciende<br/>desciende sobre mí<br/><br/>Desciende, desciende<br/>desciende hoy aquí</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Creo en el poder<br/>cuando te clamo en oración<br/>Para ofrecerte todo mi amor<br/>en adoración<br/><br/>Y te clamaré<br/>que sobre toda mi generación<br/>Arda este deseo y pasión<br/>de traerte honor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Manda lluvia<br/>temprana y tardía<br/><br/>Que llene hoy mi vida<br/>con pasión</lines>
+    </verse>
+  </lyrics>
+</song>

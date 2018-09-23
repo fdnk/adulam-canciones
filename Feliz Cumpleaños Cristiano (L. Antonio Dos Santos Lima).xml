@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-02T05:54:19">
+  <properties>
+    <titles>
+      <title>Feliz Cumpleaños Cristiano</title>
+      <title>Que los cumplas feliz</title>
+    </titles>
+    <authors>
+      <author>L. Antonio Dos Santos Lima</author>
+    </authors>
+    <themes>
+      <theme>Corito</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Que los cumplas feliz //<br/>Que el Señor te bendiga<br/>¡Que los cumplas feliz!<br/><br/>// Fue por ti que él murió //<br/>Y por darte la vida<br/>¡Su sangre vertió!</lines>
+    </verse>
+  </lyrics>
+</song>

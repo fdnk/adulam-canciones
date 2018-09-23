@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-25T05:27:51">
+  <properties>
+    <titles>
+      <title>Fuego de Dios</title>
+      <title>Que mi vida siempre sea</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Rojo</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que mi vida siempre sea <br/>un reflejo de tu gloria <br/>quiero respirar tu aliento <br/>conocerte en lo secreto<br/><br/>Y mi corazón, mi mente <br/>te los doy a ti por siempre <br/>ven y haz lo que tú quieras <br/>seré tuyo hasta que vuelvas </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Fuego de Dios <br/>Quémame hoy <br/>Purifícame y llenáme otra vez <br/>Fuego de Dios <br/>Quémame hoy <br/>Purifícame y llenáme otra vez </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y te doy todos mis días <br/>mis tristezas y alegrías<br/>Y los planes que he soñado <br/>pongo todos a un lado. <br/><br/>Que mi boca siempre hable <br/>lo que venga de tu parte <br/>Que tu luz sea mi guía <br/>hoy te doy toda mi vida</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sólo quiero agradarte <br/>y mi mundo entregarte <br/>quita todo lo que estorbe <br/>para ti quiero siempre vivir</lines>
+    </verse>
+  </lyrics>
+</song>

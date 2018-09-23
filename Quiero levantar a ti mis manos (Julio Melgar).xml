@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:14:21">
+  <properties>
+    <titles>
+      <title>Quiero levantar a ti mis manos</title>
+      <title>Creo en ti</title>
+    </titles>
+    <authors>
+      <author>Julio Melgar</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero levantar a ti mis manos<br/>Maravilloso Jesús<br/>milagroso Señor<br/><br/>Llena este lugar de tu presencia<br/>Y has descender tu poder<br/>a los que estamos aquí</lines>
+    </verse>
+    <verse name="b1">
+      <lines>// Creo en ti Jesús<br/>Y lo que harás en mí //<br/><br/>En mí, en mí</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Recibe toda la gloria<br/>Recibe toda la honra<br/>Precioso Hijo de Dios</lines>
+    </verse>
+  </lyrics>
+</song>

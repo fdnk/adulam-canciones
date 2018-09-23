@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:05:05">
+  <properties>
+    <titles>
+      <title>No hay lugar mas alto</title>
+      <title>A tus pies</title>
+    </titles>
+    <verseOrder>v1 p1 c1 b1</verseOrder>
+    <authors>
+      <author>Miel San Marcos</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A tus pies, arde mi corazón<br/>A tus pies, entrego lo que soy<br/><br/>Es el lugar de mi seguridad<br/>Donde nadie me puede señalar</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Me perdonaste<br/>Me acercaste a tu presencia<br/><br/>Me levantaste<br/>Hoy me postro adorarte.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>No hay lugar más alto<br/>Más grande<br/>// Que estar a tus pies //</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Y aquí permaneceré<br/>Postrado a tus pies<br/><br/>Y aquí permaneceré<br/>A los pies de Cristo</lines>
+    </verse>
+  </lyrics>
+</song>

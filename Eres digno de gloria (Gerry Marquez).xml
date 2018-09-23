@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T18:48:12">
+  <properties>
+    <titles>
+      <title>Eres digno de gloria</title>
+      <title>Hoy te alabamos Señor</title>
+    </titles>
+    <authors>
+      <author>Gerry Marquez</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoy te alabamos Señor<br/>Y declaramos que tú eres nuestro Dios<br/><br/>Eres el Dios del amor<br/>Ya no somos esclavos del temor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoy te adoramos Señor<br/>Y te cantamos con nuestro corazón<br/><br/>Te damos todo el honor<br/>Sobre el cielo y la tierra<br/>Tú eres Señor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tú eres digno de gloria<br/>Sobre toda la tierra tú eres Dios<br/><br/>Tú eres digno de recibir<br/>Toda adoración, todo el honor sea a ti</lines>
+    </verse>
+    <verse name="b1">
+      <lines>¡Eres Digno!<br/>¡Eres Santo!<br/><br/>¡Eres Rey<br/>de toda creación!</lines>
+    </verse>
+  </lyrics>
+</song>

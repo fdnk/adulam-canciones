@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T04:46:32">
+  <properties>
+    <titles>
+      <title>Aprendi</title>
+      <title>Crea en mi</title>
+    </titles>
+    <verseOrder>v1 p1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Christine D'Clario</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aprendí<br/>aprendí el valor de tus palabras<br/><br/>Contigo aprendí<br/>que me hace bien oir tu voz</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Este es mi deseo<br/>el seguirte sin reservas mi Señor<br/><br/>Este es mi deseo<br/>elevarte mi mas fiel adoración</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Crea en mí<br/>crea en mi un corazón sincero<br/><br/>Un corazón que ame tu verdad,<br/>que viva siempre en tu voluntad</lines>
+    </verse>
+    <verse name="b1">
+      <lines>//Te quiero adorar// en integridad<br/>//Te quiero adorar// por la eternidad<br/>//Te quiero adorar// en sinceridad<br/>//Te quiero adorar// por la eternidad</lines>
+    </verse>
+  </lyrics>
+</song>

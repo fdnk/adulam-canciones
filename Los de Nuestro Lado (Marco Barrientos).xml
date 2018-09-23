@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:52:41">
+  <properties>
+    <titles>
+      <title>Los de Nuestro Lado</title>
+    </titles>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>//Los de nuestro lado son mas que el adversario//<br/><br/>Mayor el que está en nosotros<br/>que aquél que en el mundo está</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Si estamos rodeados por el enemigo<br/>Señor Tu nos haces ver<br/><br/>Que los que rodean a nuestro enemigo<br/>son miles de ángeles a nuestro favor</lines>
+    </verse>
+  </lyrics>
+</song>

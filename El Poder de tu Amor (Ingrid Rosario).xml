@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T18:43:42">
+  <properties>
+    <titles>
+      <title>El Poder de tu Amor</title>
+      <title>Vengo a ti Señor / Cubreme</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Ingrid Rosario</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vengo a ti Señor<br/>cámbiame, renuévame<br/>Por la gracia que encontré en tí<br/><br/>Ahora sé que las<br/>debilidades que hay en mí<br/>se desvanecerán<br/><br/>¡Por el poder de tu amor!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cúbreme, con tu amor rodeamé<br/>Tomamé, cerca quiero estar<br/><br/>Y al esperar, nuevas fuerzas yo tendré<br/>y me levantaré, como las águilas<br/><br/>Por el poder de tu amor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo te quiero ver<br/>cara a cara, oh Señor<br/>y conocer así, más de ti en mí.<br/><br/>Preparame Señor<br/>para hacer tu voluntad<br/>viviendo cada día<br/><br/>Por el poder de tu amor</lines>
+    </verse>
+  </lyrics>
+</song>

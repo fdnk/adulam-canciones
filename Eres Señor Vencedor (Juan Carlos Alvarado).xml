@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-25T05:16:43">
+  <properties>
+    <titles>
+      <title>Eres Señor Vencedor</title>
+      <title>Por eso yo te canto y te alabo</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Juan Carlos Alvarado</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Por eso yo te canto y te alabo<br/>Porque sé que me protejes<br/>porque estoy de tu lado<br/><br/>Por eso yo te canto y te adoro<br/>Porque sé que nunca jamás<br/>me dejarás desamparado</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Eres Señor Vencedor<br/>El Invencible<br/>Eres Campeón, Ganador<br/>en batalla<br/><br/>Eres mi Rey y mi Dios<br/>El que cuida a su pueblo</lines>
+    </verse>
+  </lyrics>
+</song>

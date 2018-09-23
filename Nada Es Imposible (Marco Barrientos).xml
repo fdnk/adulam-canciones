@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:04:12">
+  <properties>
+    <titles>
+      <title>Nada Es Imposible</title>
+      <title>Por ti todo lo puedo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 b1 c1</verseOrder>
+    <ccliNo>7082940</ccliNo>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Por ti todo lo puedo<br/>Todo es posible<br/>Y la fuerza tu me das<br/>Nada es imposible<br/><br/>Por ti los ojos se abren<br/>Cadenas son rotas<br/>Y yo viviré por fe<br/>Nada es imposible </lines>
+    </verse>
+    <verse name="v1">
+      <lines>No viviré por lo que veo<br/>No viviré por lo que siento<br/><br/>Yo sé que aquí conmigo estás<br/>Yo sé que tu eres grande Dios </lines>
+    </verse>
+    <verse name="b1">
+      <lines>//Creo en ti, creo en ti<br/>Creo en ti, creo en ti Cristo//(4)</lines>
+    </verse>
+  </lyrics>
+</song>

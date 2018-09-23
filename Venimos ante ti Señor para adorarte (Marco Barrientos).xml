@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:33:00">
+  <properties>
+    <titles>
+      <title>Venimos ante ti Señor para adorarte</title>
+      <title>Mejor es tu presencia que la vida</title>
+    </titles>
+    <authors>
+      <author>Marco Barrientos</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Venimos ante ti Señor para adorarte<br/>para exaltarte, mi Dios<br/><br/>Venimos ante ti Señor a tributarte<br/>toda la gloria mi Rey</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mejor es tu presencia que la vida<br/>es un deleite contemplar tu hermosura<br/>y estar rodeado de tu santidad y amor<br/>tu presencia es lo mejor</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:39:01">
+  <properties>
+    <titles>
+      <title>Yo te busco</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo te busco , yo te busco<br/>Con fuego en mi corazón<br/><br/>Yo te busco, yo te busco<br/>Recibe mi adoración</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te anhelo, te necesito<br/>Te amo más que a mi ser</lines>
+    </verse>
+  </lyrics>
+</song>

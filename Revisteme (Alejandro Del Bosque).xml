@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T05:47:26">
+  <properties>
+    <titles>
+      <title>Revisteme</title>
+      <title>Vengo a ti mi buen Señor</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Alejandro Del Bosque</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vengo a ti mi buen Señor<br/>me presento tal cual soy<br/>Necesito de tu gracia y de tu amor<br/><br/>Al contemplar tu santidad<br/>puedo ver mi condición<br/><br/>Y declaro tu justicia a mi favor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Revísteme de tu santidad Señor<br/>de justicia y verdad revísteme<br/><br/>Revísteme de pureza mi señor<br/>de poder y libertad revísteme</lines>
+    </verse>
+  </lyrics>
+</song>

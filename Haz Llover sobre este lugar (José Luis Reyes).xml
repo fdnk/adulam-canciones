@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:25:39">
+  <properties>
+    <titles>
+      <title>Haz Llover sobre este lugar</title>
+      <title>Tu lluvia esta cayendo</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>José Luis Reyes</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Haz llover sobre este lugar sediento estoy de ti<br/>Ven y sacia hoy la sed que hay en mí<br/>Llename de ti<br/>ven que necesito que refresques mi interior.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ven, que quiero más de ti<br/>haz rebozar mi copa hasta sentir<br/>tu presencia estremeciendo mi interior<br/>ven y tócame,<br/>y abrázame, envuelveme, en ti Señor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu lluvia está cayendo,<br/>tu gloria descendiendo,<br/>tu fuego está ardiendo en mí.<br/>Tu lluvia está sanando,<br/>tu gloria restaurando,<br/>tu fuego está hoy sobre mí.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>// Lluvia cae hoy sobre mí //</lines>
+    </verse>
+  </lyrics>
+</song>

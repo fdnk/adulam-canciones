@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:27:34">
+  <properties>
+    <titles>
+      <title>Tu Eres Mi Todo</title>
+      <title>Mi Dios redentor</title>
+    </titles>
+    <verseOrder>v1 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Job González</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi Dios, redentor; Mi rey, consolador<br/>A ti, todo el honor.<br/><br/>Es paz a mi ser; La luz, en mi amanecer<br/>A ti, todo el honor<br/><br/>¡Tu eres mi todo!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cantaré con todo el corazón<br/>Cantaré con todo lo que soy<br/>Cantaré por siempre, mi Señor<br/><br/>¡Tu eres mi todo!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Mi Jesús por ti siempre viviré<br/>y por siempre cantaré<br/><br/>Tu eres mi todo</lines>
+    </verse>
+  </lyrics>
+</song>

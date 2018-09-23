@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:24:29">
+  <properties>
+    <titles>
+      <title>Te pido la paz</title>
+      <title>Ayudame a mirar con tus ojos</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ayúdame a mirar con tus ojos <br/>yo quiero sentir con tu corazón <br/>no quiero vivir mas siendo insensible <br/>a tal necesidad, oh Jesucristo </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te pido la paz para mi ciudad <br/>te pido perdon por mi ciudad <br/>ahora me humillo y busco tu rostro <br/>¿a quién iré Señor, sino a ti?</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:08:54">
+  <properties>
+    <titles>
+      <title>Digno es el Cordero Santo</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Digno es el Cordero Santo<br/>Santo, santo es él<br/><br/>Levantamos nuestra alabanza<br/>Al que en el trono está.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Santo, santo, santo<br/>Dios Todopoderoso<br/>Quien es, quien fue y quien vendrá<br/><br/>La creación hoy canta<br/>Y damos gloria a él<br/>Tú eres digno por siempre y siempre</lines>
+    </verse>
+  </lyrics>
+</song>

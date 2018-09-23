@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T19:43:38">
+  <properties>
+    <titles>
+      <title>Jesucristo basta</title>
+      <title>Nuestros corazones insaciables son</title>
+    </titles>
+    <authors>
+      <author>Un Corazón</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nuestros corazones insaciables son <br/>hasta que conocen a su salvador<br/><br/>Tal y como somos nos amó, <br/>Hoy nos acercamos sin temor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Él es el agua que al beber <br/>Nunca más tendremos sed <br/>// Jesucristo basta //<br/><br/>Mi castigo recibió <br/>Y su herencia me entregó <br/>// Jesucristo basta // </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fuimos alcanzados por su gran amor, <br/>con brazos abiertos nos recibe hoy<br/><br/>Tal y como somos nos amó, <br/>Hoy nos acercamos sin temor</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Ahora hay un futuro<br/>y esperanza fiel<br/><br/>En su amor confiamos<br/>hay descanso en él</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T18:38:55">
+  <properties>
+    <titles>
+      <title>El Fuego No Se Apagara</title>
+      <title>Yo siento que las llamas</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c2 b1 c2</verseOrder>
+    <authors>
+      <author>Iglesia Rey de Reyes</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo siento que las llamas<br/>de un avivamiento están aquí<br/><br/>Yo veo el quebranto<br/>de un pueblo santo que clama a ti<br/><br/>El fuego nunca mas se apagará</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo veo esperanza<br/>y que las cenizas huyen de mí<br/><br/>Dios, quema lo impuro<br/>porque tu amor es puro<br/>Y nunca se apagará</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tu fuego Dios<br/>Arde en mi alma<br/><br/>Tu fuego Dios<br/>Enciende esa llama<br/><br/>Tu fuego Dios</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo no quiero alejarme<br/>Porque algo nuevo viene<br/>que nos transformará<br/><br/>Dios, llegará el día<br/>donde te podremos ver<br/>y el fuego no se apagará<br/><br/>Y el fuego nunca más se apagará</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tu fuego Dios<br/>Arde en mi alma<br/><br/>Tu fuego Dios<br/>Enciende esa llama<br/><br/>Tu fuego Dios<br/>El fuego nunca más se apagará</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Purifícame, purifícame<br/>Espíritu ven, Espíritu ven<br/>Ven...</lines>
+    </verse>
+  </lyrics>
+</song>

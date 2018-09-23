@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:42:01">
+  <properties>
+    <titles>
+      <title>Yo tengo un nuevo amor</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Roberto Orellana</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Yo tengo un nuevo amor<br/>el corazón me late sin parar<br/><br/>Hay uno que me ha dicho:<br/>"te amo de verdad"<br/><br/>Jesús mi amor<br/>y más que amor mi dulce paz</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Siento que tengo ganas<br/>de volar al firmamento<br/>Gritarle al mundo entero<br/>lo que estoy sintiendo<br/><br/>Que ya encontré mi dulce amor<br/>Jesús es toda mi verdad<br/>Y nunca yo me cansaré<br/>de repetir hasta el final<br/>que ahora...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amo su voz dulcísima<br/>en respuesta cuando llamo<br/>Sus ojos tiernos<br/>hasta el toque de sus manos<br/><br/>Por siempre suyo quiero ser<br/>Jesús es toda mi verdad<br/>y nunca yo me cansaré<br/>de repetir hasta el final</lines>
+    </verse>
+  </lyrics>
+</song>

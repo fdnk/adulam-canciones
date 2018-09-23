@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T05:13:32">
+  <properties>
+    <titles>
+      <title>Cansado del camino</title>
+      <title>Sumergeme</title>
+    </titles>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cansado del camino, sediento de ti <br/><br/>Un desierto he cruzado,<br/>sin fuerzas he quedado<br/><br/>Vengo a ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Luché como soldado y a veces sufrí <br/><br/>Y aunque la lucha he ganado,<br/>mi armadura he desgastado<br/><br/>Vengo a ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sumergeme<br/>en el río de tu Espíritu<br/><br/>Necesito refrescar este seco corazón<br/>sediento de ti</lines>
+    </verse>
+  </lyrics>
+</song>

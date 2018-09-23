@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T05:28:51">
+  <properties>
+    <titles>
+      <title>Con mis manos levantadas</title>
+      <title>Llenas hoy mi corazon</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Con mis manos levantadas hacia el cielo <br/>me presento ante ti hoy mi Señor<br/><br/>Para recibir de ti la fuerza y el poder <br/>para vivir junto a ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Llenas hoy mi corazón con tu presencia <br/>Llenas de alegría y paz todo mi ser <br/><br/>De cualquier necesidad<br/>tu me responderás <br/><br/>Porque me amas<br/>¡Me amas!</lines>
+    </verse>
+  </lyrics>
+</song>

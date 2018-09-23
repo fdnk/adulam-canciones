@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:38:06">
+  <properties>
+    <titles>
+      <title>Yo quiero ser un adorador</title>
+      <title>Adorar es todo en mi vida</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author>Alejandro Del Bosque</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Adorar es todo en mi vida<br/>bendecirte es la pasión<br/>que arde mi corazón.<br/><br/>Agradarte es mi gran deseo<br/>es mi gran anhelo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Adorar es lo que mantiene <br/>el aliento en mi ser<br/><br/>Poderte satisfacer<br/>es el motivo por el cual yo vivo <br/>por el cual yo existo </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yo quiero ser un adorador<br/>que siempre busca lo tuyo <br/>Que se deleita en tu presencia <br/>y su deseo es amarte <br/><br/>Yo quiero ser un adorador<br/>que ante tus pies ha rendido <br/>Que se deleita en tu presencia<br/>y su deseo es amarte</lines>
+    </verse>
+  </lyrics>
+</song>

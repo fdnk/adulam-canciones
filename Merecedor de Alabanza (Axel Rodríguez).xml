@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-02T06:14:26">
+  <properties>
+    <titles>
+      <title>Merecedor de Alabanza</title>
+      <title>El dia que no le alabo</title>
+    </titles>
+    <authors>
+      <author>Axel Rodríguez</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Merecedor de alabanza<br/>aquél que vino a salvarme<br/>Merecedor de alabanza<br/>que siendo yo pecador<br/><br/>No escatimo su linaje<br/>para morir en la cruz<br/>Merecedor de alabanza<br/>por los siglos mi Jesús</lines>
+    </verse>
+    <verse name="c1">
+      <lines>El día en que no le alabo<br/>el alma se me entristece<br/>Pues donde no hay alabanza<br/>él no puede estar presente<br/><br/>Un sacrificio tan grande<br/>no puede pasar por alto<br/>Tres veces le digo Santo<br/>aunque crean que estoy loco</lines>
+    </verse>
+  </lyrics>
+</song>

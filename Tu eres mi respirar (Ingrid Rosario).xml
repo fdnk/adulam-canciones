@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:25:45">
+  <properties>
+    <titles>
+      <title>Tu eres mi respirar</title>
+      <title>Y yo te anhelo Señor</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Ingrid Rosario</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Eres mi respirar //<br/>Dios tu presencia vive en mi<br/><br/>// Eres mi pan Señor //<br/>Dios tus palabras viven en mi</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y yo te anhelo Señor<br/>Estoy perdida sin ti</lines>
+    </verse>
+  </lyrics>
+</song>

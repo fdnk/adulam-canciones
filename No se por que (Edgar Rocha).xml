@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T20:06:23">
+  <properties>
+    <titles>
+      <title>No se por que</title>
+      <title>Porque fuera de ti nada deseo</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Edgar Rocha</author>
+    </authors>
+    <themes>
+      <theme>Adoración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No sé por qué, Señor tu me tocaste<br/>no sé por qué, en mí tú te fijaste <br/>pero sí sé que es grande tu amor por mí </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi corazón está agradecido <br/>mi corazón está a ti rendido <br/>contigo siempre, quiero Señor estar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Porque fuera de ti nada deseo<br/>en la tierra<br/><br/>Tu presencia es mas hermosa<br/>que cualquier cosa</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Me has librado de la muerte<br/>me has dado nueva vida <br/>me sacaste mi tristeza<br/>me ceñiste de alegria <br/><br/>Por tanto nunca callaré, a ti cantaré<br/>te alabare gloria mía <br/><br/>Cristo mi Señor a ti cantaré<br/>te alabare gloria mía </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-04-26T17:27:35">
+  <properties>
+    <titles>
+      <title>Ahora vivo para ti</title>
+      <title>Nadie puede igualar lo que hiciste tu por mi</title>
+    </titles>
+    <authors>
+      <author>Esperanza de Vida</author>
+    </authors>
+    <themes>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nadie puede igualar<br/>lo que hiciste tú por mí<br/>has cambiado mi dolor por tu amor<br/><br/>Me has dado libertad<br/>vida eterna y mucho más<br/>más de lo que pueda imaginar</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Mi Jesús a dónde iré<br/>si no estás nada soy<br/>pues tu amor me conquistó<br/>siempre te amaré</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ahora vivo para ti<br/>eres todo lo que quiero<br/><br/>Ya no sé estar sin ti<br/>quédate conmigo mi Jesús</lines>
+    </verse>
+  </lyrics>
+</song>

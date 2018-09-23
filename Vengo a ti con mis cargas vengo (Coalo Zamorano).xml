@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-06-01T05:27:02">
+  <properties>
+    <titles>
+      <title>Vengo a ti con mis cargas vengo</title>
+      <title>Eres Rey</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Coalo Zamorano</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vengo a ti<br/>Con mis cargas vengo<br/><br/>Vengo a ti<br/>Eres mi sustento, Dios<br/><br/>Torre fuerte, eres mi vida<br/>Tu eres mi fiel compañia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Rey sobre toda tempestad<br/>Rey sobre toda enfermedad<br/><br/>Tu eres rey sobre todas circunstancias<br/>Sobre todas mis batallas<br/>Eres rey, eres rey<br/><br/>Tu eres rey</lines>
+    </verse>
+  </lyrics>
+</song>

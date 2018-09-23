@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2018-09-23T04:27:23">
+  <properties>
+    <titles>
+      <title>Espíritu de Dios</title>
+    </titles>
+    <authors>
+      <author>desconocido</author>
+    </authors>
+    <themes>
+      <theme>Corito</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Espíritu de Dios llena mi vida<br/>llena mi alma<br/>llena mi ser</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lléname, lléname, lléname<br/>Con tu presencia lléname<br/>Con tu hermosura lléname<br/><br/>Con tu poder</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo quiero ser una lumbrera<br/>hasta mi muerte, Señor<br/><br/>Te amo desde que sale la aurora<br/>desde que sale la aurora<br/>hasta que se ponga el sol</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cuando venga el Señor de los cielos<br/>estés vivo o estés muerto<br/>¿Qué cuenta le vas a dar?<br/><br/>Amigo, ya no peques más<br/>Jesús te dice "ven a mí"<br/><br/>Recuerda que tu Salvador<br/>jamás se olvidará de tí</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh, vienen los ángeles<br/>vienen los ángeles<br/>a adorar al Rey</lines>
+    </verse>
+  </lyrics>
+</song>
